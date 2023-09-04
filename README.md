@@ -72,6 +72,6 @@ caso apareça algum erro referente a alguma das bibliotecas importadas no progra
 ### **7. Execute o programa pelo terminal:**
 * Digite `python assistente.py`
 
-## Estudos:
+## Dados:
 
-Na pasta `estudos` você escontra alguns códigos simples, que eu utilizei para aprender sobre as ferramentas, inclusive utilizando outras como [espeak](https://espeak.sourceforge.net/) e [pyttsx3](https://pypi.org/project/pyttsx3/)
+Na pasta `Dados` você escontra alguns códigos simples, que eu utilizei para aprender sobre as ferramentas, inclusive utilizando outras como [espeak](https://espeak.sourceforge.net/) e [pyttsx3](https://pypi.org/project/pyttsx3/)
